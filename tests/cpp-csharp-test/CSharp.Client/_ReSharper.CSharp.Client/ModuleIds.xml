@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="470B3036-D946-4ED5-ABBA-A62D4CDEE3A0" ModuleId="CSharp.Client.UnitTest" />
+  <Module PersistentId="97976BFC-C391-4065-AA19-1C9D66E7D538" ModuleId="CSharp.Client" />
+  <Module PersistentId="8D5457D1-288E-4517-BC0A-DC1EFD36EA78" ModuleId="Agnos" />
+</Modules>

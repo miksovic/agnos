@@ -1,0 +1,45 @@
+<service name="TestService">    	
+	<func name="stringMethod" type="string">
+		<arg name="value" type="string"/>
+	</func>
+	
+	<func name="boolMethod" type="bool">
+		<arg name="value" type="bool"/>
+	</func>
+	
+	<func name="int8Method" type="int8">
+		<arg name="value" type="int8"/>
+	</func>
+	
+	<func name="int16Method" type="int16">
+		<arg name="value" type="int16"/>
+	</func>
+	
+	<func name="int32Method" type="int32">
+		<arg name="value" type="int32"/>
+	</func>
+	
+	<func name="int64Method" type="int64">
+		<arg name="value" type="int64"/>
+	</func>
+	
+	<func name="dateMethod" type="date">
+		<arg name="value" type="date"/>
+	</func>
+	
+	<func name="bufferMethod" type="buffer">
+		<arg name="value" type="buffer"/>
+	</func>
+	
+	<func name="listMethod" type="list[int32]">
+		<arg name="value" type="list[int32]"/>	
+	</func>
+	
+	<func name="setMethod" type="set[int32]">
+		<arg name="value" type="set[int32]"/>
+	</func>
+	
+	<func name="mapMethod" type="map[int32,int32]">
+		<arg name="value" type="map[int32,int32]"/>
+	</func>	
+</service>
